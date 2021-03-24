@@ -1,0 +1,5 @@
+cred_file_path: "/tmp/aws/credentials"
+ssh_key_name: "jakovitsaws"
+ssh_key_file: "/tmp/aws/jakovitsaws.pem"
+vpc_subnet_id: "subnet-2638f06a"
+s3_bucket_target: "radon-jakovits"
