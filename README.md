@@ -1,4 +1,4 @@
-# data_pipeline_testing_demo
+# Data pipeline agent testing demonstration project
 
 This repository contains a set of example testing artifacts (TI and SUT as CSAR files) needed for using the Data pipeline testing agent and can be used as a project inside the RADON CTT tool.  
 
